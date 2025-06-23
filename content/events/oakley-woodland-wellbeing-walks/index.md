@@ -9,6 +9,7 @@ venues:
   - the-methodist-church
 organisers:
   - ramblers-wellbeing-walks-basingstoke
+date: 2025-06-03
 ---
 ☕️ Finishing with a sociable cuppa @ Methodist Chapel ☕️
 
