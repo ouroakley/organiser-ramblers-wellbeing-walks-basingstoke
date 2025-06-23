@@ -1,7 +1,9 @@
 ---
 title: Oakley Woodland Wellbeing Walks
 eventSummary: Come and enjoy scenic walks around our local woods and fields
-eventStart: 2025-06-03T10:00:00+01:00
+eventDates:
+  - start: 2025-06-03T10:00:00+01:00
+    end: 2025-06-03T11:00:00+01:00
 venues:
   - village-pond
   - the-methodist-church
