@@ -10,6 +10,8 @@ venues:
 organisers:
   - ramblers-wellbeing-walks-basingstoke
 date: 2025-06-03
+aliases:
+  - /events/2025/06/oakley-woodland-wellbeing-walks/
 ---
 ☕️ Finishing with a sociable cuppa @ Methodist Chapel ☕️
 
