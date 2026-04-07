@@ -1,17 +1,17 @@
 ---
 draft: false
 title: Woodland Wellbeing Walk
-date: 2026-04-14
+date: 2026-04-28
 eventDates:
-  - start: 2026-04-14T10:00:00
-    end: 2026-04-14T11:00:00
+  - start: 2026-04-28T10:00:00
+    end: 2026-04-28T11:00:00
 venues:
-  - village-pond
+  - east-oakley-village-hall
 organisers:
   - ramblers-wellbeing-walks-basingstoke
 ---
 
-Woodland wellbeing walk led by Barbara. Meeting at Village Pond, East Oakley.
+Woodland wellbeing walk led by Barbara. Meeting at East Oakley Village Hall (Green Hut).
 
 Pace: gentle  
 Duration: 1 hour approx  

@@ -11,3 +11,9 @@ organisers:
   - ramblers-wellbeing-walks-basingstoke
 ---
 
+Woodland wellbeing walk led by Richard. Meeting at St John's Road lay-by, Oakley.
+
+Pace: gentle  
+Duration: 1 hour approx  
+Routes: varied  
+Led by Richard
